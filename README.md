@@ -29,7 +29,8 @@
  [Conclusion](#Conclusion)
 
 # Objective
-- [What is the key pain point?]
+- What is the key pain point?
+
 Create a dashboard to identify top UK YouTubers in 2024 for marketing campaigns.
 
 - [Key Features:]
