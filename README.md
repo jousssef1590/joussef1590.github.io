@@ -1,4 +1,4 @@
-# Data Portfolio: Excel, SQL, Python, & Power BI
+# Data Portfolio: Excel, SQL, Python, & Power BI - Top 10 youtupers in UK 
 
 # Table of contents
 
@@ -34,15 +34,22 @@
 Create a dashboard to identify top UK YouTubers in 2024 for marketing campaigns.
 
 - Key Features:
-	- [Metrics: Subscriber count, total views, total videos, engagement rate.]
-	- [Filters: Search by niche, engagement, and subscriber growth.]
-	- [Tools: Use YouTube API for data collection and tools like Tableau or Power BI for visualization.]
-	- [Automation: Regular updates for real-time insights.]
-	- [This dashboard will help the marketing team make data-driven decisions and efficiently choose YouTubers for campaigns.]
+	- Metrics: Subscriber count, total views, total videos, engagement rate.
+	- Filters: Search by niche, engagement, and subscriber growth.
+	- Tools: Use YouTube API for data collection and tools like Tableau or Power BI for visualization.
+	- Automation: Regular updates for real-time insights.
+	- This dashboard will help the marketing team make data-driven decisions and efficiently choose YouTubers for campaigns.
 
+This dashboard will help the marketing team make data-driven decisions and efficiently choose YouTubers for their campaigns.
 
+## User story
 
-## Subheader (Smaller header)
+As the Head of Marketing,
+I want to use a dashboard that analyzes YouTube channel data in the UK,
+so that I can identify the top-performing channels based on metrics like subscriber base and average views.
+
+This will allow me to make more informed decisions about which YouTubers to collaborate with,
+ensuring that each marketing campaign is as effective as possible.
 
 ###### Smallest header you can write in Markdown 
 
