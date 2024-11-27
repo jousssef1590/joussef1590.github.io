@@ -33,7 +33,7 @@
 
 Create a dashboard to identify top UK YouTubers in 2024 for marketing campaigns.
 
-- [Key Features:]
+- Key Features:
 	- [Metrics: Subscriber count, total views, total videos, engagement rate.]
 	- [Filters: Search by niche, engagement, and subscriber growth.]
 	- [Tools: Use YouTube API for data collection and tools like Tableau or Power BI for visualization.]
