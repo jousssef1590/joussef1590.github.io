@@ -6,11 +6,11 @@
 - [Data Source](#Data-Source)
 - [Stages](#Stages)
 - [Design](#Design)
- - [Mockup](#Mockup)
- - [Tools](#Tools)
+	- [Mockup](#Mockup)
+	- [Tools](#Tools)
 - [Development](#Development)
- - [Pseudocode](#Pseudocode)
- - [Data Exploration](#Data Exploration)
+	- [Pseudocode](#Pseudocode)
+	- [Data Exploration](#Data Exploration)
 Data Cleaning
 Transform the Data
 Create the SQL View
