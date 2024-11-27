@@ -65,7 +65,7 @@ ensuring that each marketing campaign is as effective as possible.
 
 - total videos uploaded
 
-- Where is the data coming from? Kaggle as Excel file, and Youtube API to extract (subscribers, viewers) by python
+- Where is the data coming from? Kaggle(https://www.kaggle.com/datasets/bhavyadhingra00020/top-100-social-media-influencers-2024-countrywise?resource=download) as Excel file, and Youtube API to extract (subscribers, viewers) by python
 
 
 # Stages
@@ -78,6 +78,7 @@ ensuring that each marketing campaign is as effective as possible.
 # Design
 ## Dashboard components required
 - What should the dashboard contain based on the requirements provided?
+
 To understand what it should contain, we need to figure out what questions we need the dashboard to answer:
 
 1. Who are the top 10 YouTubers with the most subscribers?
@@ -88,6 +89,16 @@ To understand what it should contain, we need to figure out what questions we ne
 6. Which 3 channels have the highest subscriber engagement rate per video uploaded?
 
 For now, these are some of the questions we need to answer, this may change as we progress down our analysis.
+
+# Dashboard mockup
+
+Some of the data visuals that may be appropriate in answering our questions include:
+
+1. Table
+2. Treemap
+3. Scorecards
+4. Horizontal bar chart
+
 
 2. How to make table of conent
 # Table of content
