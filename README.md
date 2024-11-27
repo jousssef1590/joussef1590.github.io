@@ -51,8 +51,43 @@ so that I can identify the top-performing channels based on metrics like subscri
 This will allow me to make more informed decisions about which YouTubers to collaborate with,
 ensuring that each marketing campaign is as effective as possible.
 
-###### Smallest header you can write in Markdown 
 
+# Data source
+- What data is needed to achieve the objective?
+
+  We need data on the top UK YouTubers in 2024 that includes their
+
+- channel names
+
+- total subscribers
+
+- total views
+
+- total videos uploaded
+
+- Where is the data coming from? Kaggle as Excel file, and Youtube API to extract (subscribers, viewers) by python
+
+
+# Stages
+  
+- Design
+- Developement
+- Testing
+- Analysis
+
+# Design
+## Dashboard components required
+- What should the dashboard contain based on the requirements provided?
+To understand what it should contain, we need to figure out what questions we need the dashboard to answer:
+
+1. Who are the top 10 YouTubers with the most subscribers?
+2. Which 3 channels have uploaded the most videos?
+3. Which 3 channels have the most views?
+4. Which 3 channels have the highest average views per video?
+5. Which 3 channels have the highest views per subscriber ratio?
+6. Which 3 channels have the highest subscriber engagement rate per video uploaded?
+
+For now, these are some of the questions we need to answer, this may change as we progress down our analysis.
 
 2. How to make table of conent
 # Table of content
