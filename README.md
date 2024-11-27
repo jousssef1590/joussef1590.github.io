@@ -1,5 +1,7 @@
 # Data Portfolio: Excel, SQL, Python, & Power BI - Top 10 youtupers in UK 
 
+![Excel, SQL, Python, & Power BI](E:\Data anlaytics\Youtube_data_UK\ESPB.png)
+
 # Table of contents
 
 - [Objective](#Objective)
@@ -65,7 +67,7 @@ ensuring that each marketing campaign is as effective as possible.
 
 - total videos uploaded
 
-- Where is the data coming from? Kaggle[see here to find it](https://www.kaggle.com/datasets/bhavyadhingra00020/top-100-social-media-influencers-2024-countrywise?resource=download) as Excel file, and Youtube API to extract (subscribers, viewers) by python
+- Where is the data coming from? Kaggle [see here to find it](https://www.kaggle.com/datasets/bhavyadhingra00020/top-100-social-media-influencers-2024-countrywise?resource=download) as Excel file, and Youtube API to extract (subscribers, viewers) by python
 
 
 # Stages
