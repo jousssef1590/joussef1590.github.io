@@ -11,9 +11,11 @@
 - [Development](#Development)
 	- [Pseudocode](#Pseudocode)
 	- [Data Exploration](#Data Exploration)
-Data Cleaning
-Transform the Data
-Create the SQL View
+	- [Data Cleaning](#Data Cleaning)
+	- [Transform the Data](#Transform the Data)
+ 	- [Create the SQL View](#Create the SQL View)
+  - [Objective](#Objective)
+
 Testing
 Data Quality Tests
 Visualization
