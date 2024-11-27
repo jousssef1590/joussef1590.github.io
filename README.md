@@ -65,7 +65,7 @@ ensuring that each marketing campaign is as effective as possible.
 
 - total videos uploaded
 
-- Where is the data coming from? Kaggle(https://www.kaggle.com/datasets/bhavyadhingra00020/top-100-social-media-influencers-2024-countrywise?resource=download) as Excel file, and Youtube API to extract (subscribers, viewers) by python
+- Where is the data coming from? Kaggle(#https://www.kaggle.com/datasets/bhavyadhingra00020/top-100-social-media-influencers-2024-countrywise?resource=download) as Excel file, and Youtube API to extract (subscribers, viewers) by python
 
 
 # Stages
