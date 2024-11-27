@@ -10,26 +10,37 @@
 	- [Tools](#Tools)
 - [Development](#Development)
 	- [Pseudocode](#Pseudocode)
-	- [Data Exploration](#Data Exploration)
-	- [Data Cleaning](#Data Cleaning)
-	- [Transform the Data](#Transform the Data)
- 	- [Create the SQL View](#Create the SQL View)
-  - [Objective](#Objective)
+	- [Data Exploration](#Data-Exploration)
+	- [Data Cleaning](#Data-Cleaning)
+	- [Transform the Data](#Transform-the-Data)
+ 	- [Create the SQL View](#Create-the-SQL-View)
+- [Testing](#Testing)
+  	- [Data Quality Tests](#Data-Quality-Tests)
+- [Visualization](#Visualization)
+  	- [Results](#Results)
+   	- [DAX Measures](#DAX-Measures)
+- [Analysis](#Analysis)
+	- [Findings](#Findings)
+	- [Validation](#Validation)
+	- [Discovery](#Discovery)
+- [Recommendations](#Recommendations)
+	- [Potential ROI](#Potential-ROI)
+	- [Potential Courses of Actions](#Potential-Courses-of-Actions)
+ [Conclusion](#Conclusion)
 
-Testing
-Data Quality Tests
-Visualization
-Results
-DAX Measures
-Analysis
-Findings
-Validation
-Discovery
-Recommendations
-Potential ROI
-Potential Courses of Actions
-Conclusion
-.
+#Objective
+- [What is the key pain point?]
+Create a dashboard to identify top UK YouTubers in 2024 for marketing campaigns.
+
+- [Key Features:]
+	- [Metrics: Subscriber count, total views, total videos, engagement rate.]
+	- [Filters: Search by niche, engagement, and subscriber growth.]
+	- [Tools: Use YouTube API for data collection and tools like Tableau or Power BI for visualization.]
+	- [Automation: Regular updates for real-time insights.]
+	- [This dashboard will help the marketing team make data-driven decisions and efficiently choose YouTubers for campaigns.]
+
+
+
 ## Subheader (Smaller header)
 
 ###### Smallest header you can write in Markdown 
