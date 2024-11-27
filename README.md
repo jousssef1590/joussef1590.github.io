@@ -1,8 +1,33 @@
-# joussef1590.github.io
+# Data Portfolio: Excel, SQL, Python, & Power BI
 
-1. How to make header
-# Header 
+# Table of contents
 
+- [Objective](#Objective)
+- [Data Source](#Data-Source)
+- [Stages](#Stages)
+- [Design](#Design)
+ - [Mockup](#Mockup)
+ - [Tools](#Tools)
+- [Development](#Development)
+ - [Pseudocode](#Pseudocode)
+ - [Data Exploration](#Data Exploration)
+Data Cleaning
+Transform the Data
+Create the SQL View
+Testing
+Data Quality Tests
+Visualization
+Results
+DAX Measures
+Analysis
+Findings
+Validation
+Discovery
+Recommendations
+Potential ROI
+Potential Courses of Actions
+Conclusion
+.
 ## Subheader (Smaller header)
 
 ###### Smallest header you can write in Markdown 
